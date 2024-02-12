@@ -1,4 +1,4 @@
-![amogus](Screenshot-2022-11-16-102056.png)
+![amogus](a.png)
 <h1>Welcome/Xin chào!❤️</h1>
 <p>This repository is specifically made for uploading CodeForces projects. Here are some things you should pay attention to when using my own repo:</p>
    <li>It only consists of C++ projects.</li>
