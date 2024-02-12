@@ -1,4 +1,5 @@
 <h1>Welcome/Xin chào!❤️</h1>
+![alt text]([http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg))
 <p>This repository is specifically made for uploading CodeForces projects. Here are some things you should pay attention to when using my own repo:</p>
    <li>It only consists of C++ projects.</li>
    <li>Learn them as you read.</li>
