@@ -1,5 +1,4 @@
 <h1>Welcome/Xin chào!❤️</h1>
-![Alt text]([https://ibb.co/09pThRW](https://ibb.co/09pThRW))
 <p>This repository is specifically made for uploading CodeForces projects. Here are some things you should pay attention to when using my own repo:</p>
    <li>It only consists of C++ projects.</li>
    <li>Learn them as you read.</li>
